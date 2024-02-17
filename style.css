@@ -241,14 +241,14 @@
   color: #edede9;
   font-size: 25px;
   margin-top: 50px;
-   
+  font-weight: bolder;
 }
 
 .my_img{
   width: 350px;
   height: 280px;
   background-size: cover;
-  margin-left: 100px;
+  margin-left: 130px;
   margin-bottom: 20px;
 }
 
